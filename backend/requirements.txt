@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-core
+langchain-groq
+python-dotenv
+requests
+chromadb
+sentence-transformers
