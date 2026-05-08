@@ -26,7 +26,7 @@ from langchain_groq import ChatGroq
 from langgraph.prebuilt import create_react_agent
 
 # Import our RAG memory module
-from backend.app.rag_memory import save_to_memory, get_context
+from backend.app.memory.rag_memory import save_to_memory, get_context
 
 load_dotenv()
 
